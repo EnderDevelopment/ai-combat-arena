@@ -1,0 +1,13 @@
+name: AICombatPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that lets players fight AI bots and armies.
+api-version: "1.21"
+commands:
+  spawnbot:
+    description: Spawn an AI bot.
+    usage: /spawnbot
+  spawnarmy:
+    description: Spawn an AI army.
+    usage: /spawnarmy
